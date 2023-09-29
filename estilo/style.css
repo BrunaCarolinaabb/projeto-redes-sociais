@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@media screen and (min-width:360px) /*celular*/and (max-width:600px) {
+
+    section#telefone {
+        width: 366px;
+    }
+
+    section#redes-sociais {
+        padding-block: 30px;
+    }
+
+}
